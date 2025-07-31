@@ -27,7 +27,7 @@ Epson TM-T81,TM-T82 Series Printer Drivers for linux
 ----------------------------------------------------
 1. Download the driver from the below link:
 
-[epson-tm-t81-t82.tar.gz]|(https://github.com/purvalpatel/Epson-LQ-300-driver-linux/raw/ce00f9e2a99f2f8f3b9a00a343185e7154288f79/epson-tm-t81-t82.tar.gz)
+[epson-tm-t81-t82.tar.gz](https://github.com/purvalpatel/Epson-LQ-300-driver-linux/raw/ce00f9e2a99f2f8f3b9a00a343185e7154288f79/epson-tm-t81-t82.tar.gz)
 
 2. Extract the downloaded file
 
