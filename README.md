@@ -8,6 +8,7 @@ Epson LQ 300 Printer Driver for Linux (Dot Matrix Printer)
 
 
 [epson-en-eplq300.ppd.gz](https://raw.githubusercontent.com/purvalpatel/Epson-LQ-300-driver-linux/9a679dc35524706fea6f6047a9177295bc0b93ff/epson-en-eplq300.ppd.gz)
+
 2. copy both files at below location
 ```
 cp  epson-en-eplq300.ppd.gz /usr/share/cups/model/
